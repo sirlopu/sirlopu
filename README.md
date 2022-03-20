@@ -12,7 +12,7 @@
 <!--![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 ![](./src/header_.png)
-<a href="https://www.isc2.org/Certifications/CISSP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/cissp.png" alt="sirlopu" height="30" width="48" /></a> 
+<a href="https://www.isc2.org/Certifications/CISSP/" target="blank"><img align="right" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/cissp.png" alt="sirlopu" height="48" width="150" /></a> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
