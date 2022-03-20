@@ -12,10 +12,9 @@
 <!--![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 ![](./src/header_.png)
-<a href="https://www.isc2.org/Certifications/CISSP/"><img src="https://commons.wikimedia.org/wiki/File:Certified_Information_Systems_Security_Professional_logo.png" align="right" height="48" width="48" ></a> 
+<a href="https://www.isc2.org/Certifications/CISSP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/cissp.png" alt="sirlopu" height="30" width="48" /></a> 
 
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+veteran)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
 <!--
 Property | Data
@@ -44,7 +43,7 @@ Property | Data
 
 **📫 How to Reach me:**
 <p align="left">
-<!--<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/twitter.svg" alt="sirlopu" height="30" width="30" /></a> -->
+<!--<a href="https://twitter.com/-----------" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/twitter.svg" alt="sirlopu" height="30" width="30" /></a> -->
 <a href="https://linkedin.com/in/sirlopu" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/linkedin.svg" alt="sirlopu" height="30" width="30" /></a>
 <a href="mailto:gabriel.sirlopu@alum.drexel.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <!--<a href="https://api.whatsapp.com/send?phone=+111111111" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
