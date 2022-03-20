@@ -14,6 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
+<!-- 
 Property | Data
 --- | --- 
 **Language **  | ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Java&logoColor=white) 
@@ -26,7 +27,7 @@ Property | Data
 
 **OS**  | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> 
 
-[![RHEL](https://img.shields.io/badge/-RHEL-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories)
+[![RHEL](https://img.shields.io/badge/-RHEL-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) -->
 
 
 <!--   GitHub stats graph -->
