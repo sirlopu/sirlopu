@@ -15,7 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
 
-Property | Data
+--- | ---
 --- | --- 
 **Languages**  | ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  ![ Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white) ![ Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white) ![ React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) 
 **Databases**  | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&&logo=MySql&logoColor=white) ![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
@@ -29,7 +29,7 @@ Property | Data
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sirlopu&hide_border=true&theme=redical)
 
- . | .
+--- | ---
 --- | --- 
 ![sirlopu's github stats](https://github-readme-stats.vercel.app/api?username=sirlopu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlopu&theme=radical&layout=compact)
 
