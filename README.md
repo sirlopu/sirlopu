@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
     <a href="https://github.com/sirlopu/sirlopu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <!-- <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a> -->
     <!-- <a href="https://github.com/sirlopu/sirlopu/graphs/contributors"><img src="https://img.shields.io/github/contributors/sirlopu/sirlopu?color=blue"></a> -->
