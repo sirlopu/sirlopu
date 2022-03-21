@@ -14,11 +14,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
-<!-- 
+
 Property | Data
 --- | --- 
-**Language **  | ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Java&logoColor=white) 
+**Language **  | ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Java&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white)
 
+
+<!-->
 **Domain Knownledge**  | [![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) [![Cloud Security & Infrastructure Badge](https://img.shields.io/badge/-Cloud%20Security%20&%20Infrastructure-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) 
 
 **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/sirlopu/sirlopu) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/sirlopu/sirlopu) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/sirlopu/sirlopu) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) [![Docker](https://img.shields.io/badge/-Docker-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories)
