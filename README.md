@@ -1,9 +1,9 @@
 <p align="center">
     <a href="https://github.com/sirlopu/sirlopu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <!-- <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a> -->
-    <a href="https://github.com/sirlopu/sirlopu/graphs/contributors"><img src="https://img.shields.io/github/contributors/sirlopu/sirlopu?color=blue"></a>
-    <a href="https://github.com/sirlopu/sirlopu/stargazers"><img src="https://img.shields.io/github/stars/sirlopu/sirlopu.svg?logo=github"></a>
-    <a href="https://github.com/sirlopu/sirlopu/network/members"><img src="https://img.shields.io/github/forks/sirlopu/sirlopu.svg?color=blue&logo=github"></a>
+    <!-- <a href="https://github.com/sirlopu/sirlopu/graphs/contributors"><img src="https://img.shields.io/github/contributors/sirlopu/sirlopu?color=blue"></a> -->
+    <!-- <a href="https://github.com/sirlopu/sirlopu/stargazers"><img src="https://img.shields.io/github/stars/sirlopu/sirlopu.svg?logo=github"></a> -->
+    <!-- <a href="https://github.com/sirlopu/sirlopu/network/members"><img src="https://img.shields.io/github/forks/sirlopu/sirlopu.svg?color=blue&logo=github"></a> -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sirlopu.sirlopu" alt="visitors"/>   
 </p>
 
