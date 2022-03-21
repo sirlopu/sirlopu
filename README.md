@@ -17,23 +17,11 @@
 
 Property | Data
 --- | --- 
-**Languages **  | ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+**Languages**  | ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  ![ Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white) 
+**Databases**  | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&&logo=MySql&logoColor=white) ![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+**Domain Knownledge**  | ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-6DB33F?style=flat&logoColor=white) ![Cloud Security Badge](https://img.shields.io/badge/-Cloud%20Security%20-4C8CBF?style=flat&logoColor=white) ![Cloud Infrastructure Badge](https://img.shields.io/badge/-Cloud%20Infrastructure-FF9900?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![Vulnerability Assessment Badge](https://img.shields.io/badge/-Vulnerability%20Assessment-00BAFF?style=flat&logoColor=white)
+**CI / CD** | ![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Gitlab%20-FCA121?style=flat&logo=Github&logoColor=white) ![Git Actions Badge](https://img.shields.io/badge/-Git%20-F05032?style=flat&logo=Git&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes%20-326CE5?style=flat&logo=Kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
-<img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;">
-
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dart</title><path d="M4.105 4.105S9.158 1.58 11.684.316a3.079 3.079 0 0 1 1.481-.315c.766.047 1.677.788 1.677.788L24 9.948v9.789h-4.263V24H9.789l-9-9C.303 14.5 0 13.795 0 13.105c0-.319.18-.818.316-1.105l3.789-7.895zm.679.679v11.787c.002.543.021 1.024.498 1.508L10.204 23h8.533v-4.263L4.784 4.784zm12.055-.678c-.899-.896-1.809-1.78-2.74-2.643-.302-.267-.567-.468-1.07-.462-.37.014-.87.195-.87.195L6.341 4.105l10.498.001z"/></svg>
-
-
-<!-->
-**Domain Knownledge**  | [![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) [![Cloud Security & Infrastructure Badge](https://img.shields.io/badge/-Cloud%20Security%20&%20Infrastructure-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) 
-
-**CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/sirlopu/sirlopu) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/sirlopu/sirlopu) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/sirlopu/sirlopu) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) [![Docker](https://img.shields.io/badge/-Docker-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories)
-
-**Databases**  | <img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;"> [![Oracle](https://img.shields.io/badge/-Oracle-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories)
-
-**OS**  | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> 
-
-[![RHEL](https://img.shields.io/badge/-RHEL-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asirlopu&type=Repositories) -->
 
 
 <!--   GitHub stats graph -->
@@ -52,8 +40,7 @@ Property | Data
 <!--<a href="https://twitter.com/-----------" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/twitter.svg" alt="sirlopu" height="30" width="30" /></a> -->
 <a href="https://linkedin.com/in/sirlopu" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/linkedin.svg" alt="sirlopu" height="30" width="30" /></a>
 <a href="mailto:gabriel.sirlopu@alum.drexel.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<!--<a href="https://api.whatsapp.com/send?phone=+111111111" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>-->
+</p>
 
   
 <!--
