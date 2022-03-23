@@ -38,12 +38,10 @@
 
 
 **📫 How to Reach me:**
-<p align="left">
-<!--<a href="https://twitter.com/-----------" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/twitter.svg" alt="sirlopu" height="30" width="30" /></a> -->
-<a href="https://linkedin.com/in/sirlopu" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/linkedin.svg" alt="sirlopu" height="30" width="30" /></a>
-<a href="mailto:gabriel.sirlopu@alum.drexel.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
 
+[![Gabriel Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirlopu/)
+
+[![Gabriel Email](https://img.shields.io/badge/email-F80000?style=for-the-badge&logo=email&logoColor=white)](mailto:gabriel.sirlopu@alum.drexel.edu)
   
 <!--
 **sirlopu/sirlopu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
