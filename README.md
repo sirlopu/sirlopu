@@ -1,3 +1,6 @@
+
+<!--![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 <p align="right">
     <a href="https://github.com/sirlopu/sirlopu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <!-- <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a> -->
@@ -7,10 +10,13 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sirlopu.sirlopu" alt="visitors"/>   
 </p>
 
-<!--![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 ![](./src/header_.png)
+
+[![Gabriel Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirlopu/)
+[![Gabriel Email](https://img.shields.io/badge/email-F80000?style=for-the-badge&logo=email&logoColor=white)](mailto:gabriel.sirlopu@alum.drexel.edu)
+
 <a href="https://www.isc2.org/Certifications/CISSP/" target="blank"><img align="right" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/cissp.png" alt="sirlopu" height="48" width="150" /></a> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
@@ -37,11 +43,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirlopu"></img>
 
 
-**📫 How to Reach me:**
 
-[![Gabriel Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirlopu/)
-
-[![Gabriel Email](https://img.shields.io/badge/email-F80000?style=for-the-badge&logo=email&logoColor=white)](mailto:gabriel.sirlopu@alum.drexel.edu)
   
 <!--
 **sirlopu/sirlopu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
