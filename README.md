@@ -28,18 +28,13 @@
 **CI / CD** | ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes%20-326CE5?style=flat&logo=Kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Gitlab%20-FCA121?style=flat&logo=Github&logoColor=white) ![Git Actions Badge](https://img.shields.io/badge/-Git%20-F05032?style=flat&logo=Git&logoColor=white)
 **Compliance** | ![GLBA Badge](https://img.shields.io/badge/-GLBA-41454A?style=flat&logoColor=white) ![NIST Badge](https://img.shields.io/badge/-NIST%20-4C8CBF?style=flat&logoColor=white) ![RMF Badge](https://img.shields.io/badge/-RMF%20-F7DF1E?style=flat&logoColor=white) ![DISA STIG Badge](https://img.shields.io/badge/-DISA%20STIG-0175C2?style=flat&logoColor=white) ![OWASP Top 10 Badge](https://img.shields.io/badge/-OWASP%20Top%2010%20-FCA121?style=flat&logoColor=white) ![FedRAMP Badge](https://img.shields.io/badge/-FedRAMP-F80000?style=flat&logoColor=white) ![Zero Trust Framework Badge](https://img.shields.io/badge/-Zero%20Trust%20Framework-00BAFF?style=flat&logoColor=white) 
 
-
+--- | --- | ---
+--- | --- | ---
+![sirlopu's github stats](https://github-readme-stats.vercel.app/api?username=sirlopu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlopu&theme=radical&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sirlopu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sirlopu&hide_border=true&theme=redical)
-
---- | ---
---- | --- 
-![sirlopu's github stats](https://github-readme-stats.vercel.app/api?username=sirlopu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlopu&theme=radical&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirlopu"></img>
-
 
 
   
