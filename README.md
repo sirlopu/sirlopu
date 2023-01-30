@@ -33,11 +33,11 @@
 --- | --- | ---
 ![sirlopu's github stats](https://github-readme-stats.vercel.app/api?username=sirlopu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlopu&theme=radical&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sirlopu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--   GitHub stats graph -->
+<!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sirlopu&hide_border=true&theme=redical)
 
-
+-->
   
 <!--
 **sirlopu/sirlopu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
