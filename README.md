@@ -16,7 +16,7 @@
 [![Gabriel Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.sirlopu@alum.drexel.edu) <a href="https://www.isc2.org/Certifications/CISSP/" target="blank"><img align="right" src="https://raw.githubusercontent.com/sirlopu/sirlopu/master/assets/cissp.png" alt="sirlopu" height="48" width="120" /></a> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity,+AI+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
 
 --- | ---
