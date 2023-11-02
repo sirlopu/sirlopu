@@ -29,9 +29,7 @@
 
 <!--**Compliance** | ![GLBA Badge](https://img.shields.io/badge/-GLBA-41454A?style=flat&logoColor=white) ![NIST Badge](https://img.shields.io/badge/-NIST%20-4C8CBF?style=flat&logoColor=white) ![RMF Badge](https://img.shields.io/badge/-RMF%20-F7DF1E?style=flat&logoColor=white) ![DISA STIG Badge](https://img.shields.io/badge/-DISA%20STIG-0175C2?style=flat&logoColor=white) ![OWASP Top 10 Badge](https://img.shields.io/badge/-OWASP%20Top%2010%20-FCA121?style=flat&logoColor=white) ![FedRAMP Badge](https://img.shields.io/badge/-FedRAMP-F80000?style=flat&logoColor=white) ![Zero Trust Framework Badge](https://img.shields.io/badge/-Zero%20Trust%20Framework-00BAFF?style=flat&logoColor=white) -->
 
---- | --- | ---
---- | --- | ---
-![sirlopu's github stats](https://github-readme-stats.vercel.app/api?username=sirlopu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlopu&theme=radical&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sirlopu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- ![sirlopu's github stats](https://github-readme-stats.vercel.app/api?username=sirlopu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlopu&theme=radical&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sirlopu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
 <!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
