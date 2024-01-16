@@ -18,11 +18,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gabriel+Sirlopu;+Welcome+to+My+Profile!;Experienced+Systems+and+Software+Engineer;Always+learning+new+things+;Cybersecurity,+AI+and+DApps+enthusiast+;USAF+Veteran)](https://git.io/typing-svg)
 
-
+<!-- ![ Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white)  -->
 --- | ---
 --- | --- 
 **Languages**  | ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) 
-***Learning*** | ![ Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white) ![ React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![ Flutter Badge](https://img.shields.io/badge/-Flutter-2496ED?style=flat&logo=Flutter&logoColor=white) 
+***Learning*** | ![ React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![ Flutter Badge](https://img.shields.io/badge/-Flutter-2496ED?style=flat&logo=Flutter&logoColor=white) 
 **Databases**  | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&&logo=MySql&logoColor=white) ![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 **Domain Knowledge**  | ![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-6DB33F?style=flat&logoColor=white) ![Cloud Security Badge](https://img.shields.io/badge/-Cloud%20Security%20-4C8CBF?style=flat&logoColor=white) ![Cloud Infrastructure Badge](https://img.shields.io/badge/-Cloud%20Infrastructure-FF9900?style=flat&logoColor=white) ![SDLC Badge](https://img.shields.io/badge/-SDLC-FF6600?style=flat&logoColor=white) ![Vulnerability Assessment Badge](https://img.shields.io/badge/-Vulnerability%20Assessment-00BAFF?style=flat&logoColor=white)
 **CI / CD** | ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes%20-326CE5?style=flat&logo=Kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white) ![Gitlab Badge](https://img.shields.io/badge/-Gitlab%20-FCA121?style=flat&logo=Github&logoColor=white) ![Gitlab Badge](https://img.shields.io/badge/-CircleCI%20-363636?style=flat&logo=CircleCI&logoColor=white) ![Git Actions Badge](https://img.shields.io/badge/-Git%20-F05032?style=flat&logo=Git&logoColor=white)
